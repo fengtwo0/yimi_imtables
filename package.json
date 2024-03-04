@@ -1,11 +1,11 @@
 {
   "name": "yimi_imtable",
   "version": "1.0.0",
-  "author": "ymi1111",
+  "author": "fengtwo0",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ymi1111/yimi_imtable"
+    "url": "https://github.com/fengtwo0/yimi_imtable"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
